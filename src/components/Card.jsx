@@ -71,7 +71,9 @@ const Card = ({ userIndex = 0 }) => {
                 />
                 <path d="M2 13.692V16a2 2 0 002 2h12a2 2 0 002-2v-2.308A24.974 24.974 0 0110 15c-2.796 0-5.487-.46-8-1.308z" />
               </svg>
-              <span className="text-xs font-medium text-gray-700">5 yrs</span>
+              <span className="text-xs font-medium text-gray-700">
+                {user.experienceYr} yr
+              </span>
             </div>
           </div>
         </div>
