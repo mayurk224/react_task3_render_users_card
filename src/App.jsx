@@ -8,7 +8,7 @@ const App = () => {
         <div className="bg-[url('https://images.pexels.com/photos/3184416/pexels-photo-3184416.jpeg')] bg-cover bg-bottom h-40 sm:h-50 md:h-60 lg:h-70 xl:h-80 relative rounded-b-3xl"></div>
       </div>
       <div className="max-w-8xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="px-2 pt-4 sm:px-6 pt-6">
+        <div className="px-2 sm:px-6 pt-6">
           <h2 className="text-2xl sm:text-3xl md:text-4xl font-sans font-bold text-gray-800 tracking-wide">
             Connect with Like-minded People
           </h2>

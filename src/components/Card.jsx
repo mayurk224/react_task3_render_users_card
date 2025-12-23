@@ -1,4 +1,4 @@
-import users from "../data.js";
+import users from "../data";
 
 const Card = ({ userIndex = 0 }) => {
   const user = users[userIndex];
